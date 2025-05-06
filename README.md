@@ -2,7 +2,7 @@ Entry_exit_face_detection_door_lock_system (Game Changer)
 
 
 
-[![Watch the video]](https://drive.google.com/file/d/1xGaw4LymNnR4zAAZ-4opQXe7uw6cTQXa/view?usp=drivesdk)
+[![Watch the video]](https://drive.google.com/file/d/12Nt5RoJA4h1DxCD1tyD9D5_Bt37M3R8f/view?usp=drivesdk)
 
 
 Installation:
