@@ -6,15 +6,15 @@
 
 Installation:
 
-    Clone the repository:
+Clone the repository:
 
-    git clone https://github.com/rkeyaru/Entry_exit_face_detection_door_lock_system
-    ![image](https://github.com/user-attachments/assets/96da2758-077d-4582-803d-d7242df4b804)
+``` git clone https://github.com/rkeyaru/Entry_exit_face_detection_door_lock_system ```
+     
 
 
 Install dependencies:
 
-pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 
  ![image](https://github.com/user-attachments/assets/b0fa28ed-d7f4-41cc-82e7-51b8f280ccf3)
